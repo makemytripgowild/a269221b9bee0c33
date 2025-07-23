@@ -1,0 +1,5 @@
+Player URL:
+https://makemytripgowild.github.io/player/?list=https://raw.githubusercontent.com/makemytripgowild/a269221b9bee0c33/refs/heads/master/github_master.m3u8
+
+Direct Playlist URL:
+https://raw.githubusercontent.com/makemytripgowild/a269221b9bee0c33/refs/heads/master/github_master.m3u8
